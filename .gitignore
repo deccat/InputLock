@@ -1,0 +1,13 @@
+.DS_Store
+
+# Xcode build products and user-specific state
+DerivedData/
+build/
+xcuserdata/
+*.xcuserstate
+*.xccheckout
+*.xcscmblueprint
+
+# Distribution artifacts
+*.ipa
+*.dSYM
