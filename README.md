@@ -11,6 +11,16 @@ InputLock 是一款 macOS 菜单栏应用：为不同应用设定输入法，并
 - 支持开机自动启动。
 - 菜单栏显示当前输入法、前台应用的规则状态和最近规则。
 
+## 界面截图
+
+| 菜单栏 | 规则 |
+| --- | --- |
+| <img src="docs/screenshots/menu-bar.png" alt="InputLock 菜单栏" width="300"> | <img src="docs/screenshots/settings-rules.png" alt="InputLock 规则设置" width="500"> |
+
+| 通用设置 | 开发者预设 |
+| --- | --- |
+| <img src="docs/screenshots/settings-general.png" alt="InputLock 通用设置" width="500"> | <img src="docs/screenshots/settings-presets.png" alt="InputLock 开发者预设" width="500"> |
+
 ## 系统要求
 
 - macOS 14.0 或更高版本
